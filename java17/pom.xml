@@ -3,5 +3,8 @@
   <groupId>com.java17</groupId>
   <artifactId>java17</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Java17Features</name>
+  <name>Java17</name>
+  <properties>
+		<java.version>17</java.version>
+	</properties>
 </project>

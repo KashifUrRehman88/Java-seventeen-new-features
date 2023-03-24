@@ -1,6 +1,6 @@
 package com.java17.example;
 
-public class Switch {
+public class SwitchStatement{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -16,6 +16,8 @@ package com.java17.example;
  */
 
 // sealed keyword with classes
+
+// Testing a commit from visual studio
 sealed class A permits B,C {
 	
 }
